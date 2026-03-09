@@ -1,0 +1,1 @@
+def merge_data(list1, list2):\n    return list1 + list2\n\ndef remove_duplicates(data):\n    return list(set(data))\n\ndef sort_data(data):\n    return sorted(data)\n
