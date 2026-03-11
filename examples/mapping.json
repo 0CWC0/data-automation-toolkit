@@ -1,0 +1,11 @@
+{
+  "주문번호": "order_id",
+  "주문일": "order_date",
+  "상품명": "product_name",
+  "옵션명": "option_name",
+  "수량": "quantity",
+  "판매가": "unit_price",
+  "결제금액": "total_price",
+  "주문상태": "status",
+  "판매채널": "channel"
+}

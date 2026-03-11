@@ -1,0 +1,4 @@
+﻿order_id,order_date,product_name,option_name,quantity,unit_price,total_price,status,channel,buyer_name,phone,address
+A1001,2026-03-01,텀블러,블랙,1,12000,12000,paid,smartstore,,,
+A1003,2026-03-03,머그컵,화이트,1,8000,8000,paid,smartstore,,,
+A1004,2026-03-04,노트북파우치,13인치,1,25000,25000,paid,coupang,,,
